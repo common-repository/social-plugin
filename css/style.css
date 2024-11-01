@@ -1,0 +1,19 @@
+.socialplugin{clear:both;width:100%;margin:0;padding:0;}
+.socialplugin *{display:inline-block;vertical-align:top !important;}
+.socialplugin li{max-height:23px;min-height:20px;min-width:30px;max-width:200px;vertical-align:top;overflow:hidden;padding:5px;margin:0 20px 0 0;list-style-type:none;background:none;}
+.socialplugin iframe,.socialplugin object{overflow:hidden;}
+.socialplugin a{color:transparent;}
+.socialplugin .spdelicious a.delicious-button{color:#333;}
+.socialplugin .spfollow iframe,.socialplugin .spfollow object{height:20px;max-width:320px;}
+.socialplugin .splike iframe,.socialplugin .splike object{border:none;overflow:hidden;width:80px;height:25px;}
+.socialplugin .splink iframe,.socialplugin .splink object{border:none;overflow:hidden;width:80px;height:20px;}
+.socialplugin .splinkedin *{vertical-align:baseline !important;}
+.socialplugin .spplusone iframe{top:0 !important;left:0 !important;position:static !important;width:82px;}
+.socialplugin .spplusone > div{max-width:70px;}
+.socialplugin .spreddit iframe,.socialplugin .spreddit object{width:120px;height:22px;}
+.socialplugin .spretweet{width:91px;}
+.socialplugin .spretweet iframe,.socialplugin .spretweet object{width:110px;height:22px;}
+.socialplugin .spsend{overflow:visible;}
+.socialplugin .spstumble iframe,.socialplugin .spstumble object{border:none;overflow:hidden;width:74px;height:18px;}
+.socialplugin .sptweet iframe,.socialplugin .sptweet object{width:120px;height:22px;}
+.socialplugin .sptweet{width:91px;}
